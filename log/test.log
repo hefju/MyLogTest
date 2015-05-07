@@ -1,0 +1,10 @@
+
+2015/05/07 17:09:43 appconfig.go:17: debug [loger init]
+
+2015/05/07 17:09:43 main.go:14: info [main log test]
+
+2015/05/07 17:22:05 appconfig.go:17: debug [loger init]
+
+2015/05/07 17:22:05 main.go:12: info [main log test]
+
+2015/05/07 17:22:07 main.go:14: warn [main log test]
